@@ -1,7 +1,7 @@
 public class StringReverse {
 
     /* Schreiben Sie eine Methode, die einen String als Parameter übergeben bekommt und in umgekehrter Reihenfolge zurückgibt.*/
-    public static String kataStringReversed(String str) {
+    public static String stringReversed(String str) {
         if(str == null || str.length() == 0) {
             return "";
         }
@@ -20,7 +20,7 @@ public class StringReverse {
     public static void main(String[] args) {
         String toReverse = "!tcerroC";
 
-        String reversed = kataStringReversed(toReverse);
+        String reversed = stringReversed(toReverse);
 
         if(reversed.equals("Correct!")) {
             System.out.print("Correct!");
