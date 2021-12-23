@@ -3,5 +3,5 @@ Ziel dieser Aufgabe ist es Kontrollstrukturen, speziell Schleifen, und Grundlage
 Würde zum Beispiel "Hallo" übergeben werden, sollte die Methode als Rückgabewert "ollaH" liefern.
 
 ## Relevante Kursinhalte
-- Vorlesung aus Woche 4 zu Kontrollstrukturen
-- Vorlesung aus Woche 9 zur Stringverarbeitung
+- Vorlesung [aus Woche 4 zu Kontrollstrukturen](https://elearning.uni-regensburg.de/course/view.php?id=52262#sectionid-690332-title)
+- Vorlesung [aus Woche 9 zur Stringverarbeitung](https://elearning.uni-regensburg.de/course/view.php?id=52262#sectionid-690337-title)
